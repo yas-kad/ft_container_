@@ -6,7 +6,7 @@
 /*   By: yait-kad <yait-kad@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/02/15 10:18:56 by yait-kad          #+#    #+#             */
-/*   Updated: 2022/02/17 18:46:16 by yait-kad         ###   ########.fr       */
+/*   Updated: 2022/02/23 16:51:59 by yait-kad         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,6 @@
 # define ITERATOR_TRAITS_HPP
 
 #include <iostream>
-#include <iterator>
 
 namespace ft
 {
